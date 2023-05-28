@@ -9981,7 +9981,7 @@ pre .code {
   top: 50%;
   transform: translate(-50%, -50%);
   -weblit-transform: translate(-50%, -50%);
-  border: 10px solid white;
+  border: 6px solid white;
   transition: .5s !important;
   -weblit-transition: .5s !important;
   z-index: 2;
