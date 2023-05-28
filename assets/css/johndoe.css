@@ -10060,7 +10060,7 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("https://s35764.pcdn.co/wp-content/uploads/2022/09/Featured-Image-51.jpg");
+  background-image: linear-gradient(to top, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://s35764.pcdn.co/wp-content/uploads/2022/09/Featured-Image-51.jpg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
