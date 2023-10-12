@@ -10138,7 +10138,7 @@ pre .code {
 }
 
 .section {
-  padding: 80px 0;
+  padding: 5px 0;
 }
 
 .section.bg-custom-gray {
@@ -10164,13 +10164,13 @@ pre .code {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 40px 0;
+  padding: 20px 0;
 }
 
 @media (max-width: 991.98px) {
-  .contact {
-    padding: 300px 0 0;
-  }
+  /*.contact {
+    padding: 5px 0 0;
+  }*/
   .contact .contact-form-card {
     border-bottom: 1px solid #dee2e6;
   }
@@ -10179,7 +10179,7 @@ pre .code {
     min-height: auto !important;
   }
 }
-
+/*
 .contact .map {
   position: absolute;
   left: 0;
@@ -10187,6 +10187,7 @@ pre .code {
   width: 100%;
   height: 100%;
 }
+*/
 
 .contact .contact-form-card,
 .contact .contact-info-card {
@@ -10211,3 +10212,4 @@ pre .code {
   display: block;
   margin-top: 10px;
 }
+*/}
