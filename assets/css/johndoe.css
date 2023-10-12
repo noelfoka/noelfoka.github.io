@@ -10165,6 +10165,7 @@ pre .code {
   justify-content: center;
   align-items: center;
   padding: 20px 0;
+  background-color: rgba(0, 0, 0, 0.03)
 }
 
 @media (max-width: 991.98px) {
